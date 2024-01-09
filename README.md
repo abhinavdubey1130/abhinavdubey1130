@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinavdubey1130
-- 👀 I’m interested in Machine Learning, Deep Learning, Computational and Structural Biology. 
+- 👀 I’m interested in Machine Learning, Metabolomics, Computational and Structural Biology. 
 - 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on computational biology projects.
 - 📫 How to reach me : Email abhinav.nmr@gmail.com
